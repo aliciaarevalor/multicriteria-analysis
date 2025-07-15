@@ -1,15 +1,1 @@
-data/20190731_151115_0f22/20190731_151115_0f22_3B_AnalyticMS_DN_udm.tif
-data/20190731_151115_0f22/20190731_151115_0f22_3B_AnalyticMS_metadata.xml
-data/20190731_151115_0f22/20190731_151115_0f22_3B_AnalyticMS_SR.tif
-data/20190731_151115_0f22/20190731_151115_0f22_3B_AnalyticMS.tif
-data/SMCA/Carto500000_Colombia_SD_2016.gpkg
-data/SMCA/dem_aoi_epsg9377.tif
-data/SMCA/dem_aoi_slope.tif
-data/SMCA/dem_aoi.tif
-data/SMCA/reserves_raster_aoi.tif
-data/SMCA/rivers_raster_aoi.tif
-data/SMCA/roads_raster_aoi.tif
-data/SMCA/runap.cpg
-data/SMCA/runap.prj
-data/SMCA/runap.shp
-data/SMCA/runap.shx
+/data
